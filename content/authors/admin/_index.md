@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: cтуденты НПИ-2022: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
+role: cтуденты НПИ-2022
 
 # Organizations/Affiliations to show in About widget
 organizations:
